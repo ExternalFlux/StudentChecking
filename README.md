@@ -1,6 +1,8 @@
 # StudentChecking
 ## Resources:
-### https://nodejs.org/en/
-### https://atom.io/
-### http://cmder.net/
-### https://git-scm.com/
+- https://nodejs.org/en/
+- https://atom.io/
+- http://cmder.net/
+- https://git-scm.com/
+- http://gruntjs.com/
+## TODO
